@@ -1,0 +1,10 @@
+{
+  "name": "@tssala23/gaming-companion",
+  "version": "0.2.0",
+  "description": "Gaming Companion — an OpenClaw gamer agent Template: backlog picks, spoiler-safe hints, 'where was I' recaps, builds & achievements, and a weekly deals/releases/patch digest.",
+  "license": "MIT",
+  "keywords": ["openclaw", "template", "gaming", "backlog", "games"],
+  "openclaw": {
+    "template": "CLAW.md"
+  }
+}

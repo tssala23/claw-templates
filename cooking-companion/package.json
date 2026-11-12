@@ -1,0 +1,10 @@
+{
+  "name": "@tssala23/cooking-companion",
+  "version": "0.1.0",
+  "description": "Cooking Companion — an OpenClaw Template that finds and adapts recipes, guards your dietary restrictions and allergies, plans meals from what's in your kitchen, and walks you through cooking.",
+  "license": "MIT",
+  "keywords": ["openclaw", "template", "cooking", "recipes", "meal-planning", "allergies"],
+  "openclaw": {
+    "template": "CLAW.md"
+  }
+}
